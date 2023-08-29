@@ -1,0 +1,18 @@
+<users>
+    <user>
+        <firstname>Sarah</firstname>
+        <lastname>Tibblin</lastname>
+        <email>sarah@gmail.com</email>
+        <phone>0708912345</phone>
+        <firstname></firstname>
+    </user>
+
+    <user>
+        <firstname>Sarah</firstname>
+        <lastname>Tibblin</lastname>
+        <email>sarah@gmail.com</email>
+        <phone>0708912345</phone>
+        <firstname></firstname>
+    </user>
+
+</users>
